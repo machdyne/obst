@@ -2,6 +2,8 @@
 
 Obst is an FPGA computer designed by Lone Dynamics Corporation.
 
+![Obst](https://github.com/machdyne/obst/blob/3bafaaecf9aa8363f617ca2fa645528be7854a73/obst.png)
+
 This repo will contain schematics, PCB layouts, pinouts, a 3D-printable case, example gateware and documentation.
 
 Find more information on the [Obst product page](https://machdyne.com/product/obst-computer/).
