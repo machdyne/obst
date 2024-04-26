@@ -157,10 +157,10 @@ module mdr_case_bottom() {
 						
 			translate([2,2,0]) {
 				
-				translate([7.5,-0.1,2]) roundedcube(board_width-8.5-8,board_length+0.2,10,5);
+				translate([8,-0.1,2]) roundedcube(board_width-8-8,board_length+0.2,10,5);
 				translate([-0.25,8,2]) roundedcube(board_width+0.5,board_length-16,10,5);
 			
-				translate([-0.125,-0.125, 10-1.6])
+				translate([-0.125,-0.125, 10-1.65])
 					roundedcube(board_width+0.25,board_length+0.25, 10, 4);
 				
 				// bolt holes
