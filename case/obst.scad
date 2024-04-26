@@ -61,7 +61,7 @@ module mdr_case_top() {
 				union() {
 					translate([0,0,0]) cube([10,9,20]);
 					translate([0,91.65,0]) cube([10,8.5,20]);
-					translate([52,0,0]) cube([10,9,20]);
+					translate([55,0,0]) cube([8,7.5,20]);
 					translate([52,91.65,0]) cube([10,8.5,20]);
 				}		
 
