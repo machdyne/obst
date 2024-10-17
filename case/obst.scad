@@ -54,7 +54,12 @@ module mdr_case_top() {
 		// addl supports
 		translate([62,30.5+(14.5/2)+2,0]) cube([3.25,4,20]);
 		translate([62,49.5+(14.5/2)+1.5,0]) cube([3.25,4.425,20]);
+		translate([62,22.25,0]) cube([3.25,3,20]);
 
+		translate([0,53.075,0]) cube([3.25,6.875,20]);
+		translate([0,28.5,0]) cube([3.25,8.575,20]);
+
+		translate([35,0,0]) cube([8.25,2.5,20]);
 				
 		translate([2,2,0]) {
 			difference() {
