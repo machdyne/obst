@@ -85,6 +85,7 @@ The 3.3V JTAG header can be used to program the FPGA SRAM as well as the MMOD fl
 | Revision | Notes |
 | -------- | ----- |
 | V0A | Initial production version |
+| V0B | Latest production version |
 
 ## License
 
